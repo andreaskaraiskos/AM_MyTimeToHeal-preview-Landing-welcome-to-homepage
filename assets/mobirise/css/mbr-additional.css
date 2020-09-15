@@ -41,11 +41,11 @@ body {
 }
 .display-7 {
   font-family: 'Raleway', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -547,11 +547,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Raleway', sans-serif;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.76rem;
+  font-size: 1.92rem;
 }
 blockquote {
   border-color: #8d629e;
@@ -730,14 +730,14 @@ section.lazy-placeholder:after {
   color: #2b0d38;
   text-align: center;
 }
-.cid-rSX56MfMME {
-  padding-top: 45px;
-  padding-bottom: 60px;
+.cid-saHsGkOsPz {
+  padding-top: 60px;
+  padding-bottom: 90px;
   background-color: #ffffff;
   background-image: url("../../../assets/images/mytimetoheal-damask-temp-artboard.svg");
 }
-.cid-rSX56MfMME .mbr-text,
-.cid-rSX56MfMME blockquote {
+.cid-saHsGkOsPz .mbr-text,
+.cid-saHsGkOsPz blockquote {
   color: #767676;
 }
 .cid-rmudQKFGGM {
@@ -818,14 +818,14 @@ section.lazy-placeholder:after {
 .cid-rOOo9YmNCI .plan-price .price-figure {
   color: #2b0d38;
 }
-.cid-rSX4CdQ9ra {
-  padding-top: 45px;
+.cid-saHsXZ3WnC {
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
   background-image: url("../../../assets/images/mytimetoheal-damask-temp-artboard.svg");
 }
-.cid-rSX4CdQ9ra .mbr-text,
-.cid-rSX4CdQ9ra blockquote {
+.cid-saHsXZ3WnC .mbr-text,
+.cid-saHsXZ3WnC blockquote {
   color: #767676;
 }
 .cid-rkq8PyNDIi {
@@ -840,14 +840,14 @@ section.lazy-placeholder:after {
   color: #3b1d47;
   text-align: left;
 }
-.cid-rSX4t6nDjQ {
-  padding-top: 45px;
+.cid-saHtuwcwHk {
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
   background-image: url("../../../assets/images/mytimetoheal-damask-temp-artboard.svg");
 }
-.cid-rSX4t6nDjQ .mbr-text,
-.cid-rSX4t6nDjQ blockquote {
+.cid-saHtuwcwHk .mbr-text,
+.cid-saHtuwcwHk blockquote {
   color: #767676;
 }
 .cid-rkvUBOlRjS {
@@ -903,14 +903,14 @@ section.lazy-placeholder:after {
   color: #2b0d38;
   text-align: left;
 }
-.cid-rmuP24bBat {
-  padding-top: 45px;
+.cid-saHtIpOyh8 {
+  padding-top: 60px;
   padding-bottom: 60px;
   background-color: #ffffff;
   background-image: url("../../../assets/images/mytimetoheal-damask-temp-artboard.svg");
 }
-.cid-rmuP24bBat .mbr-text,
-.cid-rmuP24bBat blockquote {
+.cid-saHtIpOyh8 .mbr-text,
+.cid-saHtIpOyh8 blockquote {
   color: #767676;
 }
 .cid-rWkuGRsSwv {
@@ -3542,6 +3542,9 @@ section.lazy-placeholder:after {
 .cid-rltU6HOt8T blockquote {
   color: #767676;
 }
+.cid-rltU6HOt8T .mbr-text P {
+  text-align: left;
+}
 .cid-rWkueitfc9 {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -4205,10 +4208,10 @@ section.lazy-placeholder:after {
 }
 .cid-rlaZS8Zcvu .mbr-text P {
   text-align: center;
-  color: #664573;
+  color: #767676;
 }
 .cid-rlaZS8Zcvu .mbr-text {
-  color: #2b0d38;
+  color: #767676;
 }
 .cid-s1m6q9WezA {
   padding-top: 120px;
